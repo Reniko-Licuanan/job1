@@ -1,0 +1,6 @@
+var="abcdefghijklmnopqrstuvwxyz"
+
+print(var)
+
+
+
